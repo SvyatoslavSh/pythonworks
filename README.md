@@ -1,6 +1,10 @@
 # pythonworks
 !!!ALL PROJECTS CREATED BY ABOBA228!!!
+
+
 I'm not a Python professional, but I love working with it and doing all sorts of fun things.
+
+Sorry, but some projects may be in Russian.
 
         #                                          ::::::                                             
         #                                        ::..::::::                                           
@@ -76,3 +80,4 @@ I'm not a Python professional, but I love working with it and doing all sorts of
                                                                                                     
                                                                                                     
                                                                                                     
+# хэхэ бубааа
